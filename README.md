@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilioLara1
 - 👀 I’m interested in development and cyber-security
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Web development and Python
 - 📫 How to reach me: emiliolarap@gmail.com
 
 <!---
